@@ -98,6 +98,8 @@ But I do not recommend to use this argument. Because in this case calculation wi
 take much time. By default `reduce_amount_cases=True` and in this case method 
 will try to find less paths than previous.
 
+---
+
 You can launch files with preinstalled values:
 ----
 There are two files bfs.py and dfs.py for "Breadth-first search" and "Depth-first search" accordingly.
