@@ -93,7 +93,7 @@ A1 -> A6 -> D6 -> D7 -> D8
 A1 -> A6 -> D6 -> D8
 
 ```
-DFS will look for all possible cases if `reduce_amount_cases` argument id `Falae`.
+DFS will look for all possible cases if `reduce_amount_cases` argument is `Falae`.
 But I do not recommend to use this argument. Because in this case calculation will 
 take much time. By default `reduce_amount_cases=True` and in this case method 
 will try to find less paths than previous.
